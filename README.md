@@ -1,6 +1,6 @@
 
-# Challenge Analysis Template
-What this project is: A template project for post-challenge analysis with template R markdown files describing important common post-challenge analyses, and a general explanation of how they are done.
+# Biomedical Data Science Project Template
+What this project is: A template project for biomedical data science projects with template R markdown files.
 
 What this project isn't: A codebase for running analyses.
 
@@ -16,15 +16,13 @@ As seen in the table below, you can optionally and ideally knit your code notebo
 
 -----
 
-# Your Challenge Name Here
-You should insert the name and description of your Challenge here, with a link to the Challenge project. 
+# Your Project Name Here
+You should insert the name and description of your Project here, with a link to external resources related to this project. 
 
-## Post-challenge analyses
+## Analyses
 Here's a summary of the analyses we've run so far. 
 
 |analysis|description|
 |--|--|
 |[Determining top performers](https://sage-bionetworks-challenges.github.io/challenge-analysis/analysis/determine-top-performers.html)|A simple description of a bootstrap analysis to determine the top performers in a challenge.|
 |[Comparison to baseline/comparator model](https://sage-bionetworks-challenges.github.io/challenge-analysis/analysis/compare-models-to-baseline.html)|A simple description of a bootstrap analysis to determine the performance of participants relative to a comparator model.|
-|[Survey analysis](https://sage-bionetworks-challenges.github.io/challenge-analysis/analysis/survey-analysis.html)|A simple description of a post-challenge survey analysis.|
-|[Ensemble analysis](https://sage-bionetworks-challenges.github.io/challenge-analysis/analysis/ensemble-analysis.html)|A simple description of an ensemble analysis for a challenge.|
